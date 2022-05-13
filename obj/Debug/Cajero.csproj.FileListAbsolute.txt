@@ -1,0 +1,7 @@
+C:\Users\Miguel Ibarra\Documents\brandon\Curso\Cajero\Cajero\bin\Debug\Cajero.exe.config
+C:\Users\Miguel Ibarra\Documents\brandon\Curso\Cajero\Cajero\bin\Debug\Cajero.exe
+C:\Users\Miguel Ibarra\Documents\brandon\Curso\Cajero\Cajero\bin\Debug\Cajero.pdb
+C:\Users\Miguel Ibarra\Documents\brandon\Curso\Cajero\Cajero\obj\Debug\Cajero.csprojAssemblyReference.cache
+C:\Users\Miguel Ibarra\Documents\brandon\Curso\Cajero\Cajero\obj\Debug\Cajero.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Ibarra\Documents\brandon\Curso\Cajero\Cajero\obj\Debug\Cajero.exe
+C:\Users\Miguel Ibarra\Documents\brandon\Curso\Cajero\Cajero\obj\Debug\Cajero.pdb
